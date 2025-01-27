@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right"alt="coding"width"400"src="https://images.app.goo.gl/JSW4CnkJt59WhuoS8">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29nisha&label=Profile%20views&color=0e75b6&style=flat" alt="29nisha" /> </p>
 
 - 🌱 I’m currently learning **Excel, Python, SQL,etc**
@@ -27,5 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29nisha&show_icons=true&locale=en" alt="29nisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29nisha&" alt="29nisha" /></p>
+
+
 
 
