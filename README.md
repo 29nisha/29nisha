@@ -1,6 +1,11 @@
 ## Hi there🖐
+.![image](https://github.com/user-attachments/assets/20fa6abd-f6ac-41d6-ad56-511399543d1c)
+
+
 
 <h3 align="center">A passionate Data Analyst from India</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29nisha&label=Profile%20views&color=0e75b6&style=flat" alt="29nisha" /> </p>
 
@@ -9,6 +14,7 @@
 - 📫 How to reach me **nishaprasad293@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
+-             
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29nisha&show_icons=true&locale=en" alt="29nisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29nisha&" alt="29nisha" /></p>
+
+
+
 
 
 
