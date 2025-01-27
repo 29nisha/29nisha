@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right"alt="coding"width"400"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right"alt="coding"width"400"src="https://images.app.goo.gl/JSW4CnkJt59WhuoS8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=29nisha&label=Profile%20views&color=0e75b6&style=flat" alt="29nisha" /> </p>
 
@@ -20,12 +20,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="h![image](https://github.com/user-attachments/assets/aec9a49a-a1c0-4c6f-8f89-0d81bb5bf35d)
-">
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29nisha&show_icons=true&locale=en&layout=compact" alt="29nisha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29nisha&show_icons=true&locale=en" alt="29nisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29nisha&" alt="29nisha" /></p>
+
 
