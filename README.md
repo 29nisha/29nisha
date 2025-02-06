@@ -1,6 +1,3 @@
-##https://www.canva.com/design/DAGeV9CUCMs/uhLgk8LjdsKP3BiQ46v_bg/edit?utm_content=DAGeV9CUCMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
 ## Hi there🖐
 
 .![image](https://github.com/user-attachments/assets/20fa6abd-f6ac-41d6-ad56-511399543d1c)
